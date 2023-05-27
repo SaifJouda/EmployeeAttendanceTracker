@@ -1,0 +1,15 @@
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.AssemblyReference.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.AssemblyInfo.cs
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\EmployeeAttendanceTracker.exe
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\EmployeeAttendanceTracker.deps.json
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\EmployeeAttendanceTracker.runtimeconfig.json
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\EmployeeAttendanceTracker.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\EmployeeAttendanceTracker.pdb
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\refint\EmployeeAttendanceTracker.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.pdb
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.genruntimeconfig.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\ref\EmployeeAttendanceTracker.dll
