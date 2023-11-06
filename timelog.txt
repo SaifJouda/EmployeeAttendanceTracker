@@ -7,3 +7,36 @@ Inactive Time: 0
 Active Time: 52000
 Inactive Time: 5000
 
+Active Time: 38
+Inactive Time: 11
+
+Active Time: 56
+Inactive Time: 11
+
+Active Time: 59
+Inactive Time: 11
+
+Active Time: 75
+Inactive Time: 19
+
+Active Time: 45
+Inactive Time: 0
+
+Active Time: 59
+Inactive Time: 4
+
+Active Time: 16
+Inactive Time: 7
+
+Active Time: 83
+Inactive Time: 0
+
+Active Time: 92
+Inactive Time: 0
+
+Active Time: 11
+Inactive Time: 8
+
+Active Time: 14
+Inactive Time: 8
+

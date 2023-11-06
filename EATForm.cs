@@ -9,7 +9,8 @@ public partial class EATForm : Form
     [DllImport("user32.dll")]
         static extern bool GetLastInputInfo(ref LASTINPUTINFO plii);
         private Label statusLabel= new Label();
-        private Label timeLabel= new Label();
+        private Label inactiveTimeLabel= new Label();
+        private Label activeTimeLavel=new Label();
         private Button saveButton = new Button();
         private int totalActiveTime = 0;
         private int totalInactiveTime = 0;
@@ -24,13 +25,18 @@ public partial class EATForm : Form
             statusLabel.AutoSize = true;
             Controls.Add(statusLabel);
 
-            timeLabel.Text = "Time: ";
-            timeLabel.Location = new System.Drawing.Point(10, 40);
-            timeLabel.AutoSize = true;
-            Controls.Add(timeLabel);
+            activeTimeLavel.Text = "Active: ";
+            activeTimeLavel.Location = new System.Drawing.Point(10, 40);
+            activeTimeLavel.AutoSize = true;
+            Controls.Add(activeTimeLavel);
+
+            inactiveTimeLabel.Text = "Inactive: ";
+            inactiveTimeLabel.Location = new System.Drawing.Point(10, 70);
+            inactiveTimeLabel.AutoSize = true;
+            Controls.Add(inactiveTimeLabel);
 
             saveButton.Text = "Save";
-            saveButton.Location = new System.Drawing.Point(10, 70);
+            saveButton.Location = new System.Drawing.Point(10, 100);
             saveButton.Click += SaveButton_Click;
             Controls.Add(saveButton);
 
@@ -55,7 +61,7 @@ public partial class EATForm : Form
             {
                 int idleTime = Environment.TickCount - lastInputInfo.dwTime;
 
-                if (idleTime >= 10000) // Adjust the idle time threshold as needed (in milliseconds)
+                if (idleTime >= 5000) // Adjust the idle time threshold as needed (in milliseconds)
                 {
                     statusLabel.Text = "User is inactive.";
                     totalInactiveTime += 1;
@@ -65,7 +71,10 @@ public partial class EATForm : Form
                     statusLabel.Text = "User is active.";
                     totalActiveTime += 1;
                 }
-                timeLabel.Text = (Environment.TickCount - lastInputInfo.dwTime).ToString();
+                //double timeInSeconds = (Environment.TickCount - lastInputInfo.dwTime)/1000;
+                //inactiveTimeLabel.Text = "Inactive: "+Math.Round(timeInSeconds,1)+"s";
+                inactiveTimeLabel.Text= "Inactive: "+totalInactiveTime+"s";
+                activeTimeLavel.Text= "Active: "+totalActiveTime+"s";
             }
             else
             {
