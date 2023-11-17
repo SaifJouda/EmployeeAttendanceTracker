@@ -1,4 +1,3 @@
-C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.AssemblyReference.cache
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.AssemblyInfoInputs.cache
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.AssemblyInfo.cs
@@ -13,3 +12,13 @@ C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-window
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.pdb
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.genruntimeconfig.cache
 C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\ref\EmployeeAttendanceTracker.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.EATForm.resources
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.GenerateResource.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.AssemblyReference.cache
+C:\Users\Saif\Desktop\Projects\EmployeeAttendanceTracker\obj\Debug\net7.0-windows\EmployeeAttendanceTracker.csproj.CopyComplete
